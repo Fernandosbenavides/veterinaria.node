@@ -1,0 +1,41 @@
+[
+  {
+    "nombre": "Benito",
+    "edad": "2 años",
+    "tipo": "perro",
+    "color": "blanco",
+    "enfermedad": "vomitos"
+  },
+  {
+    "id": 482,
+    "nombre": "Benito",
+    "edad": "2 años",
+    "tipo": "perro",
+    "color": "blanco",
+    "enfermedad": "vomitos"
+  },
+  {
+    "id": 139,
+    "nombre": "Benito",
+    "edad": "2 años",
+    "tipo": "perro",
+    "color": "blanco",
+    "enfermedad": "vomitos"
+  },
+  {
+    "id": 372,
+    "nombre": "Balto",
+    "edad": "5 años",
+    "tipo": "perro",
+    "color": "negro",
+    "enfermedad": "fiebre"
+  },
+  {
+    "id": 994,
+    "nombre": "Ricky",
+    "edad": "12 años",
+    "tipo": "perro",
+    "color": "café",
+    "enfermedad": "quistes"
+  }
+]
